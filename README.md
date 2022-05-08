@@ -16,7 +16,7 @@ Figma was used to design the final visual presentation of Miscmem Game
 
 background and card colors is from [flatUIcolors](https://flatuicolors.com)
 <br>
-The images were placed in an array function. The function is able to recognize the matching image by naming the images "images/img-8.png"
+The images were placed in an array function. The function is able to recognize the matching image by naming the images "images/img-8.png". Review highlighted function below.
 
 ```
 function shuffleCard() {
