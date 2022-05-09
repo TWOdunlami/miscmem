@@ -13,6 +13,11 @@ body{
   min-height: 100vh;
   background: #c7ecee;
 }
+h1 {
+  padding-bottom: 50px;
+  font-weight: light;
+  text-align: center;
+}
 .wrapper{
   padding: 25px;
   border-radius: 10px;
