@@ -19,12 +19,12 @@ Tools used for Planning & Developing <code>Miscmem Game</code>
 ### Browsers used & operating system
 Below is chart created to display the browsers used to test the reponsiveness of MiscMemory Game.
 The four browsers listed below were testing on Windows 11 and Mac OSX High Sierra
-| Browser | Passed|Failed |
-|  :---:  |     :---:     |
-|<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />    | Passed        |
-|<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />  | Passed        |
-|<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />   | Passed        |
-|<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />   | Passed        |
+|Browser|Status|
+| :---: | :---:|
+|<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />|Passed|
+|<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />|Passed|
+|<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />|Passed|
+|<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />|Passed|
 
 #### Mismem project display <code>DOM javascript</code> concepts.
 
