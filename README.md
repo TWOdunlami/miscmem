@@ -11,10 +11,10 @@ The jewel images used for the back of the memory card game:
   - [jewel-3](images/img-3.png)
   - [question](images/que_icon.svg)
 <br>
-Figma was used to design the final visual presentation of Miscmem Game
+[Figma]() was used to design the final visual presentation of Miscmem Game
 
 ![Figma](images/miscmemGAME.png)
-
+![Figma](images/miscmemBOARD.png)
 background and card colors is from [flatUIcolors](https://flatuicolors.com)
 background image color ** #c7ecee Hint of Ice Pack **
 cards color ** #ced6e0 Twinkle Blue **
@@ -38,3 +38,9 @@ function shuffleCard() {
 
 shuffleCard();
 ```
+
+## Gameplay Guide
+
+The 4x4 board resets when the player matches all the jewel pieces.
+Everytime the board resets the jewel pieces are randomized to different slot in the game board.
+Save MiscMemory Game to your bookmark and enjoy this game &#127922; on the go!

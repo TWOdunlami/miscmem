@@ -18,6 +18,27 @@ h1 {
   font-weight: light;
   text-align: center;
 }
+footer {
+  position: fixed;
+	left: 0;
+	bottom: 0;
+	width: 100%;
+	background-color: #c7ecee;
+	color: black;
+  font-weight: bold;
+	text-align: center;
+	cursor: pointer;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    cursor: pointer;
+  }
+  a:visited {
+	  color: black;
+  }
 .wrapper{
   padding: 25px;
   border-radius: 10px;
