@@ -30,15 +30,13 @@ The four browsers listed below were testing on Windows 11 and Mac OSX High Sierr
 
 #### Mismem project displays <code>DOM javascript</code> concepts.
 
-Tools used for Planning & Developing <code>Miscmem Game</code>
-
 The jewel images used for the back of the memory card game:
   - [jewel-1](images/img-1.png)
   - [jewel-2](images/img-2.png)
   - [jewel-3](images/img-3.png)
   - [question](images/que_icon.svg)
 <br>
-[Figma]() was used to design the final visual presentation of Miscmem Game
+Figma was used to design the final visual presentation of Miscmem Game
 
 ![Figma](images/miscmemBOARD.png)
 background and card colors is from [flatUIcolors](https://flatuicolors.com).
