@@ -27,7 +27,6 @@ The four browsers listed below were testing on Windows 11 and Mac OSX High Sierr
 |<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />|&#9989;Passed|
 |<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />|&#9989;Passed|
 |<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />|&#9989;Passed|
-|<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />|&#9989;Passed|
 
 #### Mismem project displays <code>DOM javascript</code> concepts.
 
