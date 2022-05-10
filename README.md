@@ -14,8 +14,18 @@ Tools used for Planning & Developing <code>Miscmem Game</code>
 - <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> 
 - <img src="https://img.shields.io/badge/Inkscape-000000?style=for-the-badge&logo=Inkscape&logoColor=white" />  
 - <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
-- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> 
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+- <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+
+### Browsers used & operating system
+Below is chart created to display the browsers used to test the reponsiveness of MiscMemory Game.
+The four browsers listed below were testing on Windows 11 and Mac OSX High Sierra
+| Browser | Passed|Failed |
+|  :---:  |     :---:     |
+|<img src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" />    | Passed        |
+|<img src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white" />  | Passed        |
+|<img src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />   | Passed        |
+|<img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=safari&logoColor=white" />   | Passed        |
+
 #### Mismem project display <code>DOM javascript</code> concepts.
 
 Tools used for Planning & Developing <code>Miscmem Game</code>
@@ -34,7 +44,9 @@ background and card colors is from [flatUIcolors](https://flatuicolors.com).
   - background image color **#c7ecee Hint of Ice Pack**
   - cards color **#ced6e0 Twinkle Blue**
 <br>
-The images were placed in a function. The function is able to recognize the matching image by using an array method, by naming the images "images/img-8.png". 
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
+The images were placed in a javascript function, called <code>shuffleCard()</code>. 
+The function is able to recognize the matching image by naming the images "images/img-8.png", and creating array inside the object. 
 <code>Math.random</code> is used to randomize the postion of the jewels. Review highlighted function below.
 
 ```
@@ -54,11 +66,3 @@ function shuffleCard() {
 
 shuffleCard();
 ```
-
-## Gameplay Guide
-
-The 4x4 board resets when the player matches all the jewel pieces.
-
-Everytime the board resets the jewel pieces are randomized to different slot in the game board.
-
-Save MiscMemory Game to your bookmark and enjoy this game &#127922; on the go!
