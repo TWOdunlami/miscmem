@@ -13,7 +13,7 @@ The jewel images used for the back of the memory card game:
 <br>
 Figma was used to design the final visual presentation of Miscmem Game
 
-![Figma](images/prototype.png)
+![Figma](images/miscmemGAME.png)
 
 background and card colors is from [flatUIcolors](https://flatuicolors.com)
 background image color ** #c7ecee Hint of Ice Pack **
