@@ -1,7 +1,10 @@
 # Miscmem Game &#127918;
 Miscellaneous Memory Game. 
+
 Memorize Fun, Random, &amp; Jewel images.
+
 ![Figma](images/miscmemGAME.png)
+
 ## Gameplay Guide &#128211;
 
 The 4x4 board resets when the player matches all the jewel pieces.
